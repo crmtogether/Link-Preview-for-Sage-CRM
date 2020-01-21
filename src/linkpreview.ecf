@@ -1,0 +1,5 @@
+Description=Link Preview from crmtogether.com
+Directory=linkpreview
+multipleinstalls=y
+errorhandling=strict
+Version=2019
