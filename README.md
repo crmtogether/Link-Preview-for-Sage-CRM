@@ -9,7 +9,7 @@ To install download the Sage CRM component
 
 and upload this into Sage CRM via the component manager. Reload the Sage CRM App pool in IIS OR restart IIS. 
 
-Hold down ctrl and hover over a link and it will open in an line iframe. 
+Hold down ctrl and hover over a link and it will open in an inline iframe. 
 
 Path of the CRM Together Open Source Initiative
 
